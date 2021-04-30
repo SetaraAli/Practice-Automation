@@ -1,0 +1,31 @@
+2021-04-22 13:00:20,938 [main] INFO zoopla automation - ********> application start testing with chrome browser<********
+2021-04-22 13:00:22,921 [main] INFO zoopla automation - ********>User able to enter url <********
+2021-04-22 13:00:24,857 [main] INFO zoopla automation - ********>User able to click on the login button <********
+2021-04-22 13:00:26,864 [main] INFO zoopla automation - ********>User enter the userName and password <********
+2021-04-22 13:00:27,188 [main] INFO zoopla automation - ********>User click on the signing button<********
+2021-04-22 13:00:27,214 [main] INFO zoopla automation - ********>User able to verify successfully login and verify the homepage title<********
+2021-04-22 13:28:32,866 [main] INFO zoopla automation - ********> application start testing with chrome browser<********
+2021-04-22 13:28:34,791 [main] INFO zoopla automation - ********>User able to enter url <********
+2021-04-22 13:28:36,735 [main] INFO zoopla automation - ********>User able to click on the login button <********
+2021-04-22 13:28:38,725 [main] INFO zoopla automation - ********>User enter the userName and password <********
+2021-04-22 13:28:39,026 [main] INFO zoopla automation - ********>User click on the signing button<********
+2021-04-22 13:28:39,048 [main] INFO zoopla automation - ********>User able to verify successfully login and verify the homepage title<********
+2021-04-22 13:44:48,159 [main] INFO zoopla automation - ********> application start testing with chrome browser<********
+2021-04-22 13:44:50,155 [main] INFO zoopla automation - ********>User able to enter url <********
+2021-04-22 13:44:52,047 [main] INFO zoopla automation - ********>User able to click on the login button <********
+2021-04-22 13:44:53,949 [main] INFO zoopla automation - ********>User enter the userName and password <********
+2021-04-22 13:44:54,291 [main] INFO zoopla automation - ********>User click on the signing button<********
+2021-04-22 13:44:54,322 [main] INFO zoopla automation - ********>User able to verify successfully login and verify the homepage title<********
+2021-04-22 13:47:35,481 [main] INFO zoopla automation - ********> application start testing with chrome browser<********
+2021-04-22 13:47:37,471 [main] INFO zoopla automation - ********>User able to enter url <********
+2021-04-22 13:47:39,503 [main] INFO zoopla automation - ********>User able to click on the login button <********
+2021-04-22 13:47:41,678 [main] INFO zoopla automation - ********>User enter the userName and password <********
+2021-04-22 13:47:41,990 [main] INFO zoopla automation - ********>User click on the signing button<********
+2021-04-22 13:47:42,013 [main] INFO zoopla automation - ********>User able to verify successfully login and verify the homepage title<********
+2021-04-22 15:07:08,242 [main] INFO zoopla automation - ********> application start testing with chrome browser<********
+2021-04-22 15:07:10,248 [main] INFO zoopla automation - ********>User able to enter url <********
+2021-04-22 15:07:12,153 [main] INFO zoopla automation - ********>User able to click on the login button <********
+2021-04-22 15:07:13,884 [main] INFO zoopla automation - ********>User enter the userName and password <********
+2021-04-22 15:07:14,175 [main] INFO zoopla automation - ********>User click on the signing button<********
+2021-04-22 15:07:14,199 [main] INFO zoopla automation - ********>User able to verify successfully login and verify the homepage title<********
+2021-04-22 15:07:14,212 [main] INFO zoopla automation - ********>User able to verify successfully login and verify the homepage title<********
